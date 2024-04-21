@@ -1,7 +1,1 @@
-- ToDo
-
-- for now i am using the skeletyl one,
-  maybe later i end up moving all to the one named "mine"
-- i need to see if i can get longer battery life
-- i need the colemak dh layout
-- i need a rest combination
+este proyecto en ppio no lo voy a usar
